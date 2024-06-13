@@ -1,4 +1,4 @@
-# Eagle-Project-Cigarette-Sales-Analysis , Associated with NielsenIQAssociated with NielsenIQ
+# Eagle-Project-Cigarette-Sales-Analysis , Associated with NielsenIQ
 Eagle Project : Cigarette Sales AnalysisEagle Project : Cigarette Sales Analysis
 Feb 2022 - Apr 2022Feb 2022 - Apr 2022
 
