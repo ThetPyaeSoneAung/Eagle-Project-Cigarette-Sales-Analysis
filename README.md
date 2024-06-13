@@ -1,9 +1,7 @@
-# Eagle-Project-Cigarette-Sales-Analysis
+# Eagle-Project-Cigarette-Sales-Analysis , Associated with NielsenIQAssociated with NielsenIQ
 Eagle Project : Cigarette Sales AnalysisEagle Project : Cigarette Sales Analysis
 Feb 2022 - Apr 2022Feb 2022 - Apr 2022
-![image](https://github.com/ThetPyaeSoneAung/Eagle-Project-Cigarette-Sales-Analysis/assets/56155639/231289a5-e028-4213-8d36-baec3e1597af)
 
-Associated with NielsenIQAssociated with NielsenIQ
 Objectives: 
   The project aims to analyze sales data for different cigarette brands to identify the best-selling products and provide insights for informed business decisions. This involves examining weekly sales figures, pricing strategies, and purchase volumes for various brands.
   
