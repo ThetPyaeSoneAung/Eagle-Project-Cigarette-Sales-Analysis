@@ -27,3 +27,5 @@ Based on the analysis, the recommendations are to focus on top-selling products,
 
 Conclusion:
 The project provides valuable insights into the sales performance of various cigarette brands, enabling the client to make informed decisions to enhance product offerings, optimize pricing, and improve overall business performance.
+
+Please review the detail in the link [https://drive.google.com/file/d/1Uj9o1OysYNQzZysRtxi-T5BhR28mHG7w/view](https://drive.google.com/file/d/1Uj9o1OysYNQzZysRtxi-T5BhR28mHG7w/view?usp=sharing)
